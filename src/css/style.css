@@ -1,0 +1,31 @@
+.root{
+-fx-font-size: 18;
+-fx-background-color: white;
+/*-fx-background-image: url("https://edaplus.info/directory-herbs/images/chamomile.jpg");*/
+/*-fx-background-image: url("/image/1.jpg");
+-fx-background-size: 100% 100%;*/
+}
+
+.button{
+-fx-background-color: aquamarine;
+}
+
+.button:hover{
+-fx-background-color: silver;
+-fx-text-fill: gold;
+-fx-font-weight: bold;
+-fx-font-size: 20;
+
+}
+
+#addBtn{
+-fx-background-color: #60bfe2
+}
+
+.text-area{
+-fx-control-inner-background: aquamarine;
+-fx-text-fill: blue;
+-fx-highlight-text-fill: #000000;
+-fx-highlight-fill: silver;
+
+}
